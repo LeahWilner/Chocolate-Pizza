@@ -1,0 +1,38 @@
+.footer {
+    /* image photo to left */
+/* button styling and to right */
+}
+.button {
+    background-color: orangered;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+
+.footer h1 {
+    color: black
+    /* font-weight: bold; */
+    padding-bottom: 20px;
+    font-size: 2em;
+}
+
+.footer p {
+    align-content: center;
+    padding-bottom: 60px;
+    /* font-size: 1em; */
+    opacity: 80%;
+}
+
+.footer h2 {
+    color: gray
+    font-size: 5em;
+}
+
+
+
