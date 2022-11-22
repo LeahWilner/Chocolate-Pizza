@@ -1,4 +1,84 @@
 
+/* fonts:
+font-family: 'Neucha', cursive;
+font-family: 'Oswald', sans-serif;
+font-family: 'Patrick Hand', cursive;
+ */
+
+
+
+
+body{
+    background-color: whitesmoke;
+    color: black;
+}
+
+.content-wrap {
+    max-width: 900px;
+    width: 85%;
+    margin: 0 auto;
+    }
+
+header{
+    height:200px;
+}
+
+h2 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 40px;
+}
+
+.print{
+    display: inline-flex
+}
+h3 {
+    font-family: 'Neucha', cursive;
+    margin-top: 10px;
+    margin-right: 630px;
+}
+
+main{
+    height: 800px;
+
+}
+
+.directions{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    line-height: 1.5;
+}
+.directions p{
+    margin-top: 30px;
+}
+
+.ingredients{
+    display: flex
+    
+}
+
+.ingredients article{
+    font-family: 'Neucha', cursive;
+    padding:30px;
+    line-height: 1.5;
+    font-size: 18px;
+    margin-left: 120px;
+}
+
+.line-through {
+    text-decoration: line-through;
+}
+.recipe{
+    background-image:url("../images/ChocZaAssets/list-bg.png");
+margin: 30px;
+}
+
+
+
+footer {
+    height: 200px;
+}
+
+
 .button {
     background-color: orangered;
     border: none;
@@ -37,4 +117,5 @@ footer section {
     float: left;
     width: 60%;
 }
+
 
